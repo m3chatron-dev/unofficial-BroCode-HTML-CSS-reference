@@ -1,0 +1,20 @@
+@font-face {
+    src: url(fonts/DarumadropOne-Regular.ttf);
+    font-family: Darumadrop-One;
+}
+@font-face {
+    src: url(fonts/NotoSansJP-VariableFont_wght.ttf);
+    font-family: NotoSansJP;
+}
+
+h1{
+    /* second font is alternative if other font is unavailable for user */
+    font-family: Darumadrop-One, verdana, arial;
+}
+p{
+    /* if font is 2 or more words, put it in quotes */
+    font-family: NotoSansJP, "lucida console", "courier new";
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+}

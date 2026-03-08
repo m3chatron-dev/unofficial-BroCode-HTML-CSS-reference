@@ -1,0 +1,23 @@
+#container{
+    border: 2px solid;
+}
+
+/* all descendants */
+#container p{
+    background-color: hsl(60, 100%, 70%);
+}
+
+/* direct children only */
+#container > p{
+    background-color: hsl(101, 100%, 70%);
+}
+
+/* general siblings */
+#container ~ p{
+    background-color: hsl(268, 100%, 79%);
+}
+
+/* next direct sibling (adjacent sibling) */
+#container + p{
+    background-color: hsl(230, 100%, 79%);
+}

@@ -1,0 +1,12 @@
+h1{
+    /* First # is for horizontal offset, second is for vertical offset */
+    /* Optional 3rd # is blur */
+    /* Next setting is color; if you want you can put a comma for a another shandow */
+    text-shadow: 3px 3px 5px hsl(0, 100%, 61%), -3px -3px 5px hsl(197, 100%, 61%);
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(234, 234, 234);
+    box-shadow: 3px 3px 5px;
+}

@@ -1,0 +1,14 @@
+/* Type of text doesn't require any indicators */
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+/* ids require '#' behind them, and classes require '.' behinds them */
+.odd{
+    color: red;
+}
+.even{
+    color: blue;
+}
