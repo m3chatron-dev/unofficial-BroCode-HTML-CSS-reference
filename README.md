@@ -1,6 +1,6 @@
 # (UNOFFICIAL) BroCode's "HTML & CSS Full Course for free 🌎" Video
 
-This repository contains my personal implementation of the projects and concepts covered in the **4-Hour HTML/CSS Course** by **Bro Code**. 
+This repository contains my personal implementation/reference of the projects and concepts covered in the **4-Hour HTML/CSS Course** by **Bro Code**. 
 
 ## Project Overview
 This repo is to be used as a resource and reference while watching the video.
@@ -11,7 +11,7 @@ The logic and curriculum followed in this repository are based on the instructio
 * **Creator:** [Bro Code](https://www.youtube.com/@BroCodez)
 * **Tutorial Link:** [HTML & CSS Full Course for free 🌎 (4 hours)]([https://www.youtube.com/watch?v=XKHEtdqhLK8](https://www.youtube.com/watch?v=HGTJBPNC-Gw&list=PLZPZq0r_RZOPP5Yjt6IqgytMRY5uLt4y3&index=1))
 
-> **Disclaimer:** This code is for educational purposes only. I have written this implementation while following the tutorial to build my skills as a programmer/developer.
+> **Disclaimer:** This code is for educational purposes only. I do not claim ownership of the code, as it rightfully belongs to [Bro Code](https://www.youtube.com/@BroCodez).
 
 ## 🛠 Concepts Covered
 * Formatting
